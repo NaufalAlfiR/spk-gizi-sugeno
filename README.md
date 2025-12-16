@@ -32,8 +32,8 @@ Project ini dibangun sebagai implementasi tugas akhir mata kuliah untuk melakuka
 1. **Clone Repository**
 
    ```bash
-   git clone [https://github.com/USERNAME_LU/NAMA_REPO.git](https://github.com/USERNAME_LU/NAMA_REPO.git)
-   cd NAMA_REPO
+   git clone https://github.com/NaufalAlfiR/spk-gizi-sugeno.git
+   cd spk-gizi-sugeno
 
    ```
 
