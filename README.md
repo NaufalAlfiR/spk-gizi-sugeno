@@ -48,9 +48,10 @@ Project ini dibangun sebagai implementasi tugas akhir mata kuliah untuk melakuka
 
    ```bash
    python app.py
-
-   Tunggu sampai muncul tulisan Running on http://127.0.0.1:5000, lalu buka link tersebut di browser.
+   
    ```
+   Tunggu sampai muncul tulisan Running on http://127.0.0.1:5000, lalu buka link tersebut di browser.
+
 
 ## 📄 Lisensi & Referensi
 
