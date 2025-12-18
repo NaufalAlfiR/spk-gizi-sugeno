@@ -57,8 +57,8 @@ Project ini dibangun sebagai implementasi tugas akhir mata kuliah untuk melakuka
 
 Aplikasi ini dibangun sebagai implementasi teknis untuk keperluan edukasi. Logika sistem sepenuhnya merujuk pada penelitian berikut:
 
-**Judul:** Sistem Pengambil Keputusan Menggunakan Fuzzy Sugeno untuk Menentukan Penyakit Obesitas Anak Usia 0 sampai 16 Tahun
-**Penulis:** Mohamad Imam Gozali
-**Jurnal:** Jurnal Teknologi dan Manajemen Informatika (JTMI), Vol. 6, No. 2, 2020.
-**DOI:** [10.26905/jtmi.v6i2.4782](https://doi.org/10.26905/jtmi.v6i2.4782)
-**Link Jurnal:** [Klik di sini](https://jurnal.unmer.ac.id/index.php/jtmi/article/view/4782)
+- **Judul:** Sistem Pengambil Keputusan Menggunakan Fuzzy Sugeno untuk Menentukan Penyakit Obesitas Anak Usia 0 sampai 16 Tahun
+- **Penulis:** Mohamad Imam Gozali
+- **Jurnal:** Jurnal Teknologi dan Manajemen Informatika (JTMI), Vol. 6, No. 2, 2020.
+- **DOI:** [10.26905/jtmi.v6i2.4782](https://doi.org/10.26905/jtmi.v6i2.4782)
+- **Link Jurnal:** [Klik di sini](https://jurnal.unmer.ac.id/index.php/jtmi/article/view/4782)
